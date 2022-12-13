@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+
+.task1{
+    text-align: center;
+}
+
+.task2{
+    text-align: center;
+}
+
+.task3{
+    text-align: center;
+}
+
+button {
+    font-size: 1.1em;
+    background-color: #EBF5FF;
+    color: cadetblue;
+    border: 2px solid black;
+
+}
